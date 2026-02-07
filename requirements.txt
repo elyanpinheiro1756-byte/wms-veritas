@@ -1,5 +1,7 @@
+streamlit
 pandas
-pandas
+supabase
+streamlit-aggrid
 plotly
-segno
-fpdf
+qrcode
+Pillow
